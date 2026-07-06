@@ -1,4 +1,4 @@
-# LexMatch AI ⚖️🤖
+# LegalBridge AI ⚖️🤖
 
 An AI-powered legal matchmaking platform that helps users find the most suitable lawyer based on their legal case, budget, location, and preferred court. Instead of manually searching through directories or consulting multiple lawyers, users receive intelligent recommendations from verified legal professionals tailored to their specific needs.
 
@@ -10,7 +10,7 @@ Finding the right lawyer is often confusing, time-consuming, and expensive. Exis
 
 At the same time, qualified lawyers often face difficulties connecting with clients who genuinely require their expertise.
 
-LexMatch AI bridges this gap by using Artificial Intelligence to analyze a user's legal requirements and recommend verified lawyers based on multiple matching criteria.
+LegalBridge AI bridges this gap by using Artificial Intelligence to analyze a user's legal requirements and recommend verified lawyers based on multiple matching criteria.
 
 ---
 
@@ -142,7 +142,7 @@ Book Consultation
 ## 📂 Project Structure
 
 ```text
-LexMatch-AI/
+LegalBridge-AI/
 │
 ├── client/
 │   ├── src/

@@ -82,7 +82,7 @@ export default function SignupPage() {
               </span>
             </Link>
             <h1 className="text-2xl font-bold text-secondary-900 mb-2">Create Your Account</h1>
-            <p className="text-secondary-600">Join LexMatch AI today</p>
+            <p className="text-secondary-600">Join LegalBridge AI today</p>
           </div>
 
           {/* Error */}

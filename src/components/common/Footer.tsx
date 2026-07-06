@@ -67,7 +67,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-primary-400" />
-                <span>contact@lexmatch.ai</span>
+                <span>contact@LegalBridge.ai</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-primary-400" />
@@ -84,7 +84,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-secondary-800">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className="text-secondary-500 text-sm">
-              {currentYear} LexMatch AI. All rights reserved.
+              {currentYear} LegalBridge AI. All rights reserved.
             </p>
             <p className="text-secondary-500 text-sm text-center">
               AI recommendations are for informational purposes only and do not constitute legal advice.

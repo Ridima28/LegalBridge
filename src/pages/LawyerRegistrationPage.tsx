@@ -270,7 +270,7 @@ export default function LawyerRegistrationPage() {
             <Scale className="w-6 h-6 text-primary-600" />
             <span className="font-semibold text-primary-700">Lawyer Registration</span>
           </div>
-          <h1 className="text-2xl font-bold text-secondary-900">Join LexMatch as a Lawyer</h1>
+          <h1 className="text-2xl font-bold text-secondary-900">Join LegalBridge as a Lawyer</h1>
           <p className="text-secondary-500 mt-2">Complete your profile to start receiving client matches</p>
         </div>
 

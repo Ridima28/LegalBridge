@@ -43,7 +43,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-medium text-secondary-900">Email Us</p>
-                  <p className="text-primary-600">contact@lexmatch.ai</p>
+                  <p className="text-primary-600">contact@LegalBridge.ai</p>
                 </div>
               </div>
             </div>

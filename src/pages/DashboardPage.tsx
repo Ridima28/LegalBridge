@@ -47,7 +47,7 @@ export default function DashboardPage() {
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           <div>
             <h1 className="text-2xl sm:text-3xl font-bold text-secondary-900 dark:text-white">
-              Welcome to LexMatch AI!
+              Welcome to LegalBridge AI!
             </h1>
             <p className="text-secondary-500 dark:text-secondary-400 mt-1">
               Here's what's happening with your legal cases

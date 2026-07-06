@@ -35,7 +35,7 @@ export default function About() {
               Democratizing Legal Access with AI
             </h2>
             <p className="text-lg text-secondary-600 mb-6">
-              LexMatch AI was founded with a mission to bridge the gap between people seeking legal help and qualified lawyers. We understand that finding the right lawyer can be overwhelming, time-consuming, and often expensive.
+              LegalBridge AI was founded with a mission to bridge the gap between people seeking legal help and qualified lawyers. We understand that finding the right lawyer can be overwhelming, time-consuming, and often expensive.
             </p>
             <p className="text-lg text-secondary-600 mb-8">
               Our platform leverages advanced artificial intelligence to analyze legal cases, understand client needs, and match them with verified lawyers who have the right expertise, experience, and availability. This ensures that every client finds their ideal legal representation efficiently.

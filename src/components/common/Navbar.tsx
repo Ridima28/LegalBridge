@@ -38,7 +38,7 @@ export default function Navbar() {
               <Scale className="w-6 h-6 text-white" />
             </div>
             <span className="text-xl font-bold text-secondary-900 dark:text-white">
-              Lex<span className="text-primary-600">Match</span>
+              Legal<span className="text-primary-600">Bridge</span>
             </span>
           </Link>
 

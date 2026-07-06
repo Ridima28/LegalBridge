@@ -7,7 +7,7 @@ const testimonials = [
     location: 'Mumbai',
     image: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=150',
     rating: 5,
-    text: 'LexMatch AI found me the perfect criminal defense lawyer within my budget. The AI matching was spot-on, and the lawyer they recommended won my case.',
+    text: 'LegalBridge AI found me the perfect criminal defense lawyer within my budget. The AI matching was spot-on, and the lawyer they recommended won my case.',
   },
   {
     name: 'Priya Sharma',
@@ -15,7 +15,7 @@ const testimonials = [
     location: 'Delhi',
     image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150',
     rating: 5,
-    text: 'As a first-time legal service user, I was nervous. LexMatch made it so easy to understand my options and find a lawyer who specialized in family law.',
+    text: 'As a first-time legal service user, I was nervous. LegalBridge made it so easy to understand my options and find a lawyer who specialized in family law.',
   },
   {
     name: 'Adv. Vikram Singh',
@@ -23,7 +23,7 @@ const testimonials = [
     location: 'Jaipur',
     image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150',
     rating: 5,
-    text: 'Since joining LexMatch, I have connected with clients who truly need my expertise. The AI matching ensures I get relevant cases aligned with my practice areas.',
+    text: 'Since joining LegalBridge, I have connected with clients who truly need my expertise. The AI matching ensures I get relevant cases aligned with my practice areas.',
   },
   {
     name: 'Ananya Patel',
@@ -39,7 +39,7 @@ const testimonials = [
     location: 'Chennai',
     image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150',
     rating: 5,
-    text: 'The platform brings qualified clients to me. No more cold calls or unreliable referrals. LexMatch has transformed how I grow my practice.',
+    text: 'The platform brings qualified clients to me. No more cold calls or unreliable referrals. LegalBridge has transformed how I grow my practice.',
   },
   {
     name: 'Karan Kapur',
@@ -47,7 +47,7 @@ const testimonials = [
     location: 'Hyderabad',
     image: 'https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=150',
     rating: 5,
-    text: 'Found an excellent corporate lawyer through LexMatch. The budget-based recommendations saved me hours of research and negotiation.',
+    text: 'Found an excellent corporate lawyer through LegalBridge. The budget-based recommendations saved me hours of research and negotiation.',
   },
 ];
 
@@ -62,7 +62,7 @@ export default function Testimonials() {
             Trusted by Clients and Lawyers Alike
           </h2>
           <p className="text-lg text-secondary-600">
-            See how LexMatch AI has helped people find the right legal representation.
+            See how LegalBridge AI has helped people find the right legal representation.
           </p>
         </div>
 

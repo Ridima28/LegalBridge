@@ -1,7 +1,7 @@
 -- /*
--- # LexMatch AI Initial Schema
+-- # LegalBridge AI Initial Schema
 
--- This migration creates the foundational tables for the LexMatch AI legal platform.
+-- This migration creates the foundational tables for the LegalBridge AI legal platform.
 
 -- ## Tables Created:
 

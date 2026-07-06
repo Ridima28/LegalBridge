@@ -68,7 +68,7 @@ export default function AIChatAssistant() {
     }
 
     if (lowerMsg.includes('hi') || lowerMsg.includes('hello') || lowerMsg.includes('hey')) {
-      return "Hello! I'm here to help you with any questions about LexMatch AI. Feel free to ask about our features, how to find a lawyer, registration process, or anything else!";
+      return "Hello! I'm here to help you with any questions about LegalBridge AI. Feel free to ask about our features, how to find a lawyer, registration process, or anything else!";
     }
 
     return "I understand you have a question. For specific legal advice, I recommend submitting your case through our platform to get matched with a qualified lawyer who can provide professional guidance. For platform-related questions, I'm happy to help! Could you please be more specific about what you'd like to know?";
